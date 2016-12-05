@@ -1,0 +1,6 @@
+E:\Personal\Education\CSharp_Observer_Pattern\SampleCode\Practice\bin\Release\Practice.exe.config
+E:\Personal\Education\CSharp_Observer_Pattern\SampleCode\Practice\bin\Release\Practice.exe
+E:\Personal\Education\CSharp_Observer_Pattern\SampleCode\Practice\bin\Release\Practice.pdb
+E:\Personal\Education\CSharp_Observer_Pattern\SampleCode\Practice\obj\Release\Practice.csprojResolveAssemblyReference.cache
+E:\Personal\Education\CSharp_Observer_Pattern\SampleCode\Practice\obj\Release\Practice.exe
+E:\Personal\Education\CSharp_Observer_Pattern\SampleCode\Practice\obj\Release\Practice.pdb
