@@ -1,0 +1,5 @@
+E:\Personal\Education\CSharp_Observer_Pattern\SampleCode\SampleCode\bin\Debug\SampleCode.exe.config
+E:\Personal\Education\CSharp_Observer_Pattern\SampleCode\SampleCode\bin\Debug\SampleCode.exe
+E:\Personal\Education\CSharp_Observer_Pattern\SampleCode\SampleCode\bin\Debug\SampleCode.pdb
+E:\Personal\Education\CSharp_Observer_Pattern\SampleCode\SampleCode\obj\Debug\SampleCode.exe
+E:\Personal\Education\CSharp_Observer_Pattern\SampleCode\SampleCode\obj\Debug\SampleCode.pdb
