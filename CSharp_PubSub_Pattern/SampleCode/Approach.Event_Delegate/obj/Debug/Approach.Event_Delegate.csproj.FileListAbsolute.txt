@@ -1,0 +1,6 @@
+E:\Personal\Education\CSharp_PubSub_Pattern\SampleCode\Approach.Event_Delegate\bin\Debug\Approach.Event_Delegate.exe.config
+E:\Personal\Education\CSharp_PubSub_Pattern\SampleCode\Approach.Event_Delegate\bin\Debug\Approach.Event_Delegate.exe
+E:\Personal\Education\CSharp_PubSub_Pattern\SampleCode\Approach.Event_Delegate\bin\Debug\Approach.Event_Delegate.pdb
+E:\Personal\Education\CSharp_PubSub_Pattern\SampleCode\Approach.Event_Delegate\obj\Debug\Approach.Event_Delegate.csprojResolveAssemblyReference.cache
+E:\Personal\Education\CSharp_PubSub_Pattern\SampleCode\Approach.Event_Delegate\obj\Debug\Approach.Event_Delegate.exe
+E:\Personal\Education\CSharp_PubSub_Pattern\SampleCode\Approach.Event_Delegate\obj\Debug\Approach.Event_Delegate.pdb
